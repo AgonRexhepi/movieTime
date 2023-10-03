@@ -1,2 +1,2 @@
 # movieTime
-This project is a font-end web application made to present movies like Netflix
+This project is a front-end web application made to present movies like Netflix
